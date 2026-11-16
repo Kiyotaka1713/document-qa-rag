@@ -10,10 +10,10 @@ A lightweight Retrieval-Augmented Generation (RAG) web app where users upload PD
 - **LLM & Embeddings:** Google GenAI SDK (`gemini-3.5-flash-lite` & `gemini-embedding-001`)
 - **Vector Search:** FAISS (`IndexFlatIP` with L2 normalization)
 - **PDF Parsing:** PyPDF
+- **DevOps / CI:** Docker, GitHub Actions
 
 ## Setup & Run
-1. Use VPN if you are not available regions for Google AI Studio and Gemini API
-
+1. Use a VPN if you are in a restricted region for Google AI Studio and the Gemini API.
 2. Clone the repository and create a virtual environment:
    ```bash
    python -m venv venv
