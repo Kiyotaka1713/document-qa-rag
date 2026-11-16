@@ -2,6 +2,6 @@ streamlit
 google-genai
 faiss-cpu
 pypdf
-numpy
 python-dotenv
-httpx
+numpy
+httpx2
